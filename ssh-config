@@ -1,0 +1,5 @@
+# CAEN
+Host caen
+	HostName login.engin.umich.edu
+	user zsadlier
+	Compression yes
